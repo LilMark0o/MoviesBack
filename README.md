@@ -1,3 +1,5 @@
-# MoviesBack
+# Flask API
 
-This is the api used for the application. It uses Flask as the framework, and the credentials are in the .env file. The url's make the query's to the DB and get the data for the front.
+## Overview
+
+This repository contains the code for a simple API built using Flask, a lightweight web framework for Python. The API serves as a foundation for creating web services and handling HTTP requests.
